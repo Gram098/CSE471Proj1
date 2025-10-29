@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<score bpm="140" beatspermeasure="4">
+     <instrument instrument="RecordingInstrument">
+	<effect measure="1" beat="1" intensity="0"/>
+        <note measure="1" beat="1" duration="20" sample="/Guitar_1.wav"/>
+	<effect measure="5" beat="1" intensity="1"/>
+	<note measure="5" beat="1" duration="20" sample="/Guitar_2.wav"/>
+     </instrument>
+</score>
