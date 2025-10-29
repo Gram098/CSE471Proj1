@@ -1,5 +1,6 @@
 # CSE 471 Project 1 By Graham Parker
 The title of the selection I have created is FinalSelection.wav.
+The title of the 15 second Effects Component Shorter Piece I have created is EffectsComponentShorterPiece.wav.
 
 I am a one person group so my only team member is: Graham Parker.
 
@@ -16,6 +17,7 @@ Example score file:
 ```
  
 The actual score file used to make my Final Selection is named FinalSelection.score inside the "Synthie" folder.
+The actual score file used to make my 15 second Effects Component Shorter Piece is named "EffectsComponentShorterPiece.score" inside the "Synthie" folder
 
 # Sequencer Component:
 The sequencer component is simular to the Synthesizer component from Step 5. It generates notes, instruments, and effects. It parses the score file and creates a "CNote" object for each effect or note. Those CNote objects either set their "m_soundRecording" to the sample's sound source, or set their "m_fuzz_intensity" to the intensity provided. Every frame, the "Generate()" function is called in the sequencer and it runs a loop that calls every "Generate()" function for each instrument. These will all be "CRecordingInstrument"s. 
