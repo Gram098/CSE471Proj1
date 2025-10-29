@@ -31,7 +31,7 @@ The recorded performance synthesizer is inside the "CRecordingInstrument" class.
 
 30 - The recording is synchronized
 
-35 - One Effect has been applied
+35 - One Effect has been applied ( fuzz effect )
 
 40 - There are at least 30 points in the score where the effect was modified/controlled
 
