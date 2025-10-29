@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<score bpm="140" beatspermeasure="4">
+     <instrument instrument="RecordingInstrument">
+	<effect measure="1" beat="1" intensity="0"/>
+        <note measure="1" beat="1" duration="20" sample="/Guitar_1.wav"/>
+	<effect measure="3" beat="1" intensity="1"/>
+
+	<effect measure="5" beat="1" intensity=".2"/>
+        <note measure="5" beat="1" duration="20" sample="/Guitar_1.wav"/>
+	<effect measure="7" beat="1" intensity="1"/>
+
+	<effect measure="9" beat="1" intensity="0"/>
+        <note measure="9" beat="1" duration="20" sample="/Guitar_2.wav"/>
+	<effect measure="11" beat="1" intensity="1"/>
+
+	<effect measure="13" beat="1" intensity=".2"/>
+        <note measure="13" beat="1" duration="20" sample="/Guitar_2.wav"/>
+	<effect measure="15" beat="1" intensity="1"/>
+
+	<effect measure="17" beat="1" intensity="0"/>
+        <note measure="17" beat="1" duration="40" sample="/Guitar_3.wav"/>
+	<effect measure="19" beat="1" intensity="1"/>
+	<effect measure="21" beat="1" intensity="0"/>
+	<effect measure="22" beat="1" intensity=".75"/>
+	<effect measure="23" beat="1" intensity="0"/>
+
+	<effect measure="25" beat="1" intensity="1"/>
+        <note measure="25" beat="1" duration="40" sample="/Guitar_3.wav"/>
+	<effect measure="27" beat="1" intensity="0"/>
+	<effect measure="29" beat="1" intensity="1"/>
+	<effect measure="30" beat="1" intensity=".25"/>
+	<effect measure="31" beat="1" intensity="1"/>
+
+	<effect measure="33" beat="1" intensity="0"/>
+	<note measure="33" beat="1" duration="40" sample="/Guitar_2.wav"/>
+	<note measure="33" beat="1" duration="20" sample="/Guitar_1.wav"/>
+	<effect measure="33" beat="2" intensity=".1"/>
+	<effect measure="35" beat="3" intensity=".2"/>
+	<effect measure="35" beat="4" intensity=".3"/>
+	<effect measure="36" beat="1" intensity=".4"/>
+	<effect measure="36" beat="2" intensity=".5"/>
+	<effect measure="36" beat="3" intensity=".6"/>
+	<effect measure="36" beat="4" intensity=".7"/>
+	<effect measure="37" beat="1" intensity=".8"/>
+	<effect measure="37" beat="2" intensity=".9"/>
+	<effect measure="37" beat="3" intensity="1"/>
+	<note measure="37" beat="1" duration="20" sample="/Guitar_2.wav"/>
+	<note measure="37" beat="1" duration="20" sample="/Guitar_1.wav"/>
+	<effect measure="38" beat="1" intensity="1"/>
+	<effect measure="38" beat="2" intensity=".8"/>
+	<effect measure="38" beat="3" intensity=".6"/>
+	<effect measure="38" beat="4" intensity=".4"/>
+	<effect measure="39" beat="1" intensity=".2"/>
+	<effect measure="39" beat="2" intensity="0"/>
+     </instrument>
+</score>
